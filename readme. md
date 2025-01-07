@@ -1,3 +1,4 @@
+
 RTCE - Real-Time Collaborative Editor
 
 RTCE is a real-time collaborative editor built using modern web technologies. It leverages Y.js, WebSockets, and y-websocket for real-time collaboration, and Vite with React for a fast and efficient frontend development experience. The backend is powered by Nodemon for auto-reloading during development. The project is built entirely in TypeScript for type safety and better developer experience.
